@@ -1,5 +1,5 @@
 Eai! Pedro Cavallaro - 🔭 Buscando uma oportunidade no desenvolvimento web.
-- ⚡ Cursando Análise e Desenvolvimento de Sistemas pela FATEC - Bragança.
+- ⚡ Cursando Análise e Desenvolvimento de Sistemas pela FATEC - Bragança, atualmente no 3° semestre.
 - 🌱 Amante de js, tenho conhecimentos como HTML, CSS, nodejs, e atualmente aprendendo php e banco de dados pela faculdade. 
 
 - Meu linkedin: <a  target="_blank" rel="noopener noreferrer" href ="https://www.linkedin.com/in/pedro-cavallaro-1b39b3236/"><img align="center" alt="Pedro-Linkedin" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"></a>
