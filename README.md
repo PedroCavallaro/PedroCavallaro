@@ -7,5 +7,6 @@ Eai! Pedro Cavallaro - 🔭 Buscando uma oportunidade no desenvolvimento web.
 <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="Pedro-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 <img align="center" alt="Pedro-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+<img align="center" alt="Pedro-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div> 
 <div><img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroCavallaro&count_private=true&show_icons=true&theme=dracula"></div>
