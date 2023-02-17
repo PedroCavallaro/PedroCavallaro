@@ -1,4 +1,4 @@
-Eai! Pedro Cavallaro - 🔭 Buscando uma oportunidade no desenvolvimento web.
+Opa! meu nome é Pedro - 🔭 Buscando uma oportunidade no desenvolvimento web.
 - ⚡ Cursando Análise e Desenvolvimento de Sistemas pela FATEC - Bragança, atualmente no 3° semestre.
 - 🌱 Amante de js, tenho conhecimentos como HTML, CSS, nodejs, e atualmente aprendendo php e banco de dados pela faculdade. 
 
