@@ -5,6 +5,7 @@ Opa! meu nome é Pedro - 🔭 Buscando uma oportunidade no desenvolvimento web.
 - Meu linkedin: <a  target="_blank" rel="noopener noreferrer" href ="https://www.linkedin.com/in/pedro-cavallaro-1b39b3236/"><img align="center" alt="Pedro-Linkedin" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"></a>
 <div style="display: inline_block"><br><img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="Pedro-ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
 <img align="center" alt="Pedro-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 <img align="center" alt="Pedro-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 <img align="center" alt="Pedro-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
