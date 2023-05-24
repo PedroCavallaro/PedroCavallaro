@@ -1,6 +1,6 @@
 Opa! meu nome é Pedro - 🔭 Buscando uma oportunidade no desenvolvimento web.
 - ⚡ Cursando Análise e Desenvolvimento de Sistemas pela FATEC - Bragança, atualmente no 3° semestre.
-- 🌱 Amante de js, tenho conhecimentos como HTML, CSS, Typescript, MySql e atualmente aprendendo php pela faculdade. 
+- 🌱 Amante de js, também possuo conhecimentos como HTML, CSS, Typescript, MySql, PHP. 
 
 - Meu linkedin: <a  target="_blank" rel="noopener noreferrer" href ="https://www.linkedin.com/in/pedro-cavallaro-1b39b3236/"><img align="center" alt="Pedro-Linkedin" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"></a>
 <div style="display: inline_block"><br><img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
