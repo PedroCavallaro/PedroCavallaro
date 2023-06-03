@@ -17,8 +17,8 @@ Opa! meu nome é Pedro - 🔭 Buscando uma oportunidade no desenvolvimento web.
 <div><div>
   <div align="center">
     <h2>Git stats</h2>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=PedroCavallaro&count_private=true&show_icons=true&theme=dracula">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroCavallaro&layout=compact&langs_count=16&theme=dracula"></div></div>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=PedroCavallaro&count_private=true&show_icons=true&theme=transparent">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroCavallaro&layout=compact&langs_count=16&theme=transparent"></div></div>
   </div>
   <div>
   <h2>Contato</h2>
