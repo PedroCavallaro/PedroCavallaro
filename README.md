@@ -17,13 +17,13 @@ Opa! meu nome é Pedro - 🔭 Buscando uma oportunidade no desenvolvimento web.
 <div><div>
   <div align="center">
     <h2>Git stats</h2>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=PedroCavallaro&count_private=true&show_icons=true&theme=transparent">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroCavallaro&layout=donut&theme=transparent"></div></div>
+    <img  height="160em" src="https://github-readme-stats.vercel.app/api?username=PedroCavallaro&count_private=true&show_icons=true&theme=transparent&text_color=white">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroCavallaro&layout=donut&theme=transparent&text_color=white"></div></div>
   </div>
   <div>
   <h2>Contato</h2>
   <div>
-    <a href="linkedin.com/in/pedro-cavallaro-1b39b3236/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="linkedin.com/in/pedro-cavallaro-1b39b3236/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black"></a>
     <a><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
     </div>
   <p>Email: <a href="">pedrocavallaro.contato@gmail.com</a></p>
