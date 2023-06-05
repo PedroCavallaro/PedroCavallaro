@@ -23,7 +23,7 @@ Opa! meu nome é Pedro - 🔭 Buscando uma oportunidade no desenvolvimento web.
   <div>
   <h2>Contato</h2>
   <div>
-    <a href="linkedin.com/in/pedro-cavallaro-1b39b3236/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black"></a>
+    <a href="linkedin.com/in/pedro-cavallaro-1b39b3236/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
     </div>
   <p>Email: <a href="">pedrocavallaro.contato@gmail.com</a></p>
