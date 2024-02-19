@@ -1,6 +1,6 @@
 Opa! meu nome é Pedro, estou buscando uma oportunidade no desenvolvimento web.
 - ⚡ Cursando Análise e Desenvolvimento de Sistemas pela FATEC - Bragança Paulista, atualmente no 4° semestre.
-- 🌱 Amante de programação web, algumas tecnologias da minha stack são: TypeScript, React, NodeJs, PHP, MySQL e Postgress.
+- 🌱 Amante de programação web, algumas tecnologias da minha stack são: TypeScript, React, NodeJs, PHP, MySQL e PostgreSQL.
 
 <br>
   <h2 align="center">Stack</h2>
