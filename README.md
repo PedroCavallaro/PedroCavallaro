@@ -1,36 +1,18 @@
-Opa! meu nome é Pedro, estou buscando uma oportunidade no desenvolvimento web.
-- ⚡ Cursando Análise e Desenvolvimento de Sistemas pela FATEC - Bragança Paulista, atualmente no 4° semestre.
-- 🌱 Amante de programação web, algumas tecnologias da minha stack são: TypeScript, React, NodeJs, PHP, MySQL e PostgreSQL.
-
-<br>
-  <h2 align="center">Stack</h2>
-  <div align="center">
-    <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">     <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Pedro-ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-    <img align="center" alt="Pedro-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-     <img align="center" alt="Pedro-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-     <img align="center" alt="Pedro-Nest.Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg">
-     <img align="center" alt="Pedro-Next.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-    <img align="center" alt="Pedro-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-    <img align="center" alt="Pedro-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-    <img align="center" alt="Pedro-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-    <img align="center" alt="Pedro-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-     <img align="center" alt="Pedro-docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-     <img align="center" alt="Pedro-MongoDb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-  </div>
-</div> 
-<div><div>
-  <div align="center">
-    <h2>Git stats</h2>
-    <img  height="160em" src="https://github-readme-stats.vercel.app/api?username=PedroCavallaro&count_private=true&show_icons=true&theme=transparent&text_color=white">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroCavallaro&layout=compact&theme=transparent&text_color=white"></div></div>
-  </div>
-  <div>
-  <h2>Contato</h2>
-  <div>
-    <a href="linkedin.com/in/pedro-cavallaro-1b39b3236/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-    </div>
-  <p>Email: <a href="">pedrocavallaro.contato@gmail.com</a></p>
-  </div>
+```rust
+let me = Me {
+  name: "Pedro",
+  position: "Dev Fullstack",
+  education: ["Análise e desenvolvimento de sistemas", "MBA - Engenharia de software"],
+  stack: Stack {
+    front: ["React", "React Native", "NextJs", "Flutter"],
+    back:  ["Node", "Nestjs", "Rust", "Express" "Typescript", "RabbitMQ", "Kafka"],
+    infra: ["Docker", "Kubernetes", "Ci/CD"],
+    obeservability: ["Grafana", "Gray log"],
+    cloud: ["AWS", "S3", "SQS", "Firebase"]
+  },
+  contact: Contact {
+    email: "pedrocavallaro.contato@gmail.com",
+    linkedin: "https://www.linkedin.com/in/pedro-cavallaro/"
+  }
+}
+```
