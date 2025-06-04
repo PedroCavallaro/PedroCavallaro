@@ -7,7 +7,7 @@ let me = Me {
     front: ["React", "React Native", "NextJs", "Flutter"],
     back:  ["Node", "Nestjs", "Rust", "Express" "Typescript", "RabbitMQ", "Kafka"],
     infra: ["Docker", "Kubernetes", "Ci/CD"],
-    obeservability: ["Grafana", "Gray log"],
+    observability: ["Grafana", "Gray log"],
     cloud: ["AWS", "S3", "SQS", "Firebase"]
   },
   contact: Contact {
