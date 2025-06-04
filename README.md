@@ -15,4 +15,6 @@ let me = Me {
     linkedin: "https://www.linkedin.com/in/pedro-cavallaro/"
   }
 }
+
+me.say("Welcome to my Github!");
 ```
